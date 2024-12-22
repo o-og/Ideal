@@ -1,0 +1,221 @@
+[
+  {
+    "name": "9Anime",
+    "url": "https://9animetv.to/",
+    "image": "/assets/apps/9anime.jpg"
+  },
+  {
+    "name": "Amazon",
+    "url": "https://amazon.com/",
+    "image": "/assets/apps/amazon.png"
+  },
+  {
+    "name": "Bingewatch.To",
+    "url": "https://bingewatch.to/",
+    "image": "assets/apps/bingewatch.png"
+  },
+  {
+    "name": "BuzzFeed Quizzes",
+    "url": "https://buzzfeed.com/quizzes",
+    "image": "assets/apps/buzzfeed.png"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgptfree.ai/chat/",
+    "image": "assets/apps/chatgpt.png"
+  },
+  {
+    "name": "Chess.com",
+    "url": "https://chess.com",
+    "image": "assets/apps/chess.png"
+  },
+  {
+    "name": "Cool Math Games",
+    "url": "https://coolmathgames.com",
+    "image": "assets/apps/coolmath.png"
+  },
+  {
+    "name": "Crazy Games",
+    "url": "https://www.crazygames.com/",
+    "image": "assets/apps/crazygames.png"
+  },
+  {
+    "name": "Deep AI",
+    "url": "https://deep.ai/",
+    "image": "assets/apps/deep.png"
+  },
+  {
+    "name": "Discord",
+    "url": "https://canary.discord.com",
+    "image": "assets/apps/discord.jpg",
+    "broken": "True"
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://start.duckduckgo.com/",
+    "image": "assets/apps/duckduckgo.png"
+  },
+  {
+    "name": "DuckDuckGo AI",
+    "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+    "image": "assets/apps/duckduckgoai.webp"
+  },
+  {
+    "name": "ESPN",
+    "url": "https://www.espn.com/watch/",
+    "image": "assets/apps/espn.webp"
+  },
+  {
+    "name": "FlixHQ",
+    "url": "https://direct.gmsmedia.pics/",
+    "image": "assets/apps/flixhq.png"
+  },
+  {
+    "name": "FzMovies",
+    "url": "https://www.fzmovies.net/",
+    "image": "assets/apps/fzmovies.webp"
+  },
+  {
+    "name": "Geforce NOW",
+    "url": "https://play.geforcenow.com/mall/#/layout/games",
+    "image": "assets/apps/geforce-now.png"
+  },
+  {
+    "name": "Github",
+    "url": "https://github.com/",
+    "image": "assets/apps/github.png"
+  },
+  {
+    "name": "Google Gemini (AI)",
+    "url": "https://gemini.google.com",
+    "image": "assets/apps/gemini.webp"
+  },
+  {
+    "name": "Google",
+    "url": "https://google.com",
+    "image": "assets/apps/google.png"
+  },
+  {
+    "name": "HBO Max",
+    "url": "https://www.hbomax.com/",
+    "image": "assets/apps/hbo.webp"
+  },
+  {
+    "name": "Hulu",
+    "url": "https://www.hulu.com/",
+    "image": "assets/apps/hulu.png"
+  },
+  {
+    "name": "Mathway",
+    "url": "https://www.mathway.com/Algebra",
+    "image": "assets/apps/mathway.webp"
+  },
+  {
+    "name": "Netflix",
+    "url": "e",
+    "image": "assets/apps/netflix.png"
+  },
+  {
+    "name": "Now.GG",
+    "url": "https://now.gg/",
+    "image": "assets/apps/nowgg.png"
+  },
+  {
+    "name": "Paramount",
+    "url": "https://www.paramountplus.com/",
+    "image": "assets/apps/paramount.png"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://pinterest.fr",
+    "image": "assets/apps/pinterest.png"
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://pixlr.com/",
+    "image": "assets/apps/pixlr.jpeg"
+  },
+  {
+    "name": "Poki",
+    "url": "https://poki.com",
+    "image": "assets/apps/poki.png"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.redditery.com/",
+    "image": "assets/apps/reddit.png"
+  },
+  {
+    "name": "Roblox",
+    "url": "https://nowgg.lol/",
+    "image": "misc/roblos/rbx.jpeg"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/",
+    "image": "assets/apps/spotify.png",
+    "alert": "This app is currently not working."
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/",
+    "image": "assets/apps/soundcloud.jpg"
+  },
+  {
+    "name": "Scratch",
+    "url": "https://scratch.mit.edu/",
+    "image": "assets/apps/scratch.webp",
+    "usesProxy": true
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/",
+    "image": "assets/apps/twitch-tv.png"
+  },
+  {
+    "name": "Tiktok",
+    "url": "https://tiktok.com/",
+    "image": "assets/apps/tiktok.png"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com/",
+    "image": "assets/apps/tumblr.png"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com/",
+    "image": "assets/apps/twitter.png"
+  },
+  {
+    "name": "VS Code",
+    "url": "https://vscode.dev/",
+    "image": "assets/apps/vscode.png"
+  },
+  {
+    "name": "WattPad",
+    "url": "https://wattpad.com/",
+    "image": "assets/apps/wattpad.jpg"
+  },
+  {
+    "name": "Y8 Games",
+    "url": "https://y8.com/",
+    "image": "assets/apps/y8.png"
+  },
+  {
+    "name": "Youtube",
+    "url": "https://vid.puffyan.us/feed/popular",
+    "image": "assets/apps/yt.png"
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://now.gg/apps/aptoide/5874/aptoide.html",
+    "image": "/assets/apps/snapchat.png",
+    "alert": "Search up snapchat, then download it and log in."
+  },
+  {
+    "name": "Youtube Music",
+    "url": "https://music.youtube.com/",
+    "image": "assets/apps/ytm.avif"
+  }
+]
