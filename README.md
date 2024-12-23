@@ -33,7 +33,7 @@ Finally, Go to ports and click on the link.
 
 ## Stats
 
-![Alt](https://repobeats.axiom.co/api/embed/aa0d492e7df85dd81f1e15509991745130be77cd.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/f3271fef7c8cc557c7e5ec815b9d0fc12fd25411.svg "Repobeats analytics image")
 
 ## Credits
 
