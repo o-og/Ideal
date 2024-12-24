@@ -1,17 +1,5 @@
 [
   {
-    "name": "[!!] Request A Game",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfY7Eh5sWLn9DcNHilyp2Xi_I8YA0MxXbENQDsatkwD_F1qeA/viewform",
-    "image": "/img/jotform.png",
-    "usesProxy": false
-  },
-  {
-    "name": "[!] Bug Reports",
-    "url": "https://forms.gle/st5iQsJ3AUrspRRv8",
-    "image": "/img/bug.webp",
-    "usesProxy": false
-  },
-  {
     "name": "1v1.lol",
     "url": "/misc/play/1v1lol.html",
     "image": "/misc/1v1-lol/splash.webp",
